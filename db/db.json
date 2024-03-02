@@ -1,0 +1,90 @@
+{
+  "user": [
+    {
+      "name": "kundan",
+      "email": "kundanc943@gmail.com",
+      "password": "123",
+      "id": "9175"
+    },
+    {
+      "id": "a0e1",
+      "name": "aman",
+      "email": "email@test.com",
+      "password": "123"
+    },
+    {
+      "id": "79cb",
+      "email": "manvi@test.com",
+      "password": "manvi@123",
+      "name": "manvi"
+    },
+    {
+      "id": "29b9",
+      "email": "manvi@test.com",
+      "password": "manvi@123",
+      "name": "manvi"
+    },
+    {
+      "id": "6bc7",
+      "email": "kundanc943@gmail.com",
+      "password": "123",
+      "name": "kundan"
+    },
+    {
+      "id": "c7bb",
+      "email": "sam@test.com",
+      "password": "sam@123",
+      "name": "sam "
+    }
+  ],
+  "users": [
+    {
+      "id": "3 ",
+      "name": "sumit",
+      "job": "full stack developer",
+      "company": "amazon "
+    },
+    {
+      "id": "a98d",
+      "name": "sahil",
+      "job": "Rust developer",
+      "company": "apple"
+    },
+    {
+      "id": "282e",
+      "name": "sahil",
+      "job": "Rust developer",
+      "company": "apple"
+    },
+    {
+      "id": "2141",
+      "name": "manvi",
+      "job": "full stack",
+      "company": "ibm"
+    },
+    {
+      "id": "41fb",
+      "name": "manvi",
+      "job": "full stack",
+      "company": "ibm"
+    },
+    {
+      "id": "5c59",
+      "name": "manvi",
+      "job": "full stack",
+      "company": "ibm"
+    },
+    {
+      "name": "manvi",
+      "job": "mern stack",
+      "company": "ibm",
+      "id": "2090"
+    },
+    {
+      "id": "43d3",
+      "name": "Kundan Choudhary",
+      "job": "remote software developer",
+      "company": "Ai"
+    }
+  ]
+}
